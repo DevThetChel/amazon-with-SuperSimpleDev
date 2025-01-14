@@ -1,0 +1,7 @@
+Part One 
+- Created lists of products and showed them on webpage.
+- Made the "Add to Cart" button interactive. (add -> update quantity -> if the item is already in the cart, just increase the quantity)
+- Made the cart quantity interactive. (loop through the cart and sum up all the quantity)
+
+
+Part Two
