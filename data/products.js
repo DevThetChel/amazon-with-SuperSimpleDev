@@ -469,4 +469,26 @@ export const products = [
     priceCents: 2400,
     keywords: ["sweaters", "hoodies", "apparel", "mens"],
   },
+  {
+    id: "id1",
+    image: "images/products/backpack.jpg",
+    name: "Travel Bag Pack",
+    rating: {
+      stars: 3.0,
+      count: 289,
+    },
+    priceCents: 3500,
+    keywords: ["travel", "camp", "school", "bag"],
+  },
+  {
+    id: "id2",
+    image: "images/products/umbrella.jpg",
+    name: "Umbrella",
+    rating: {
+      stars: 4.0,
+      count: 490,
+    },
+    priceCents: 987,
+    keywords: ["umbrella", "rain", "travel", "school"],
+  },
 ];
